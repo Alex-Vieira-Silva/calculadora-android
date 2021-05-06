@@ -1,2 +1,2 @@
 # calculadora-android
-Sistema desenvolvido java com android
+Sistema desenvolvido em java com android
